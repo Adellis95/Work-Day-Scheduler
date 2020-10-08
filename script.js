@@ -52,3 +52,20 @@ var time9 = beforeTime.add(1, "h");
 time9 = time9.format("hh:mm A");
 // Populates time formula into html
 $(".block9").text(time9);
+
+// Function to compare hour slots with current time
+
+function testTime() {
+  // Add time1 9AM
+  time1 = moment().startOf("day").add(9, "hours");
+  // Adjusts current time to the hour
+  currentTime = currentTime.startOf("hour");
+  // Add time1 if/else
+  if (currentTime.isAfter(time1)) {
+    $(".form9").addClass("past");
+  } else if (currentTime.isBefore(time1)) {
+    $(".form9").addClass("future");
+  } else if (currentTime.isSame(time1)) {
+    $(".form9").addClass("present");
+  }
+}
