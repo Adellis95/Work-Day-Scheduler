@@ -14,7 +14,7 @@ words
 
 ## Screenshots
 
-![Work_Day_Planner](assests/10 am Planner.png)
+![Work_Day_Planner](assests/10 am Planner.png)Homework\Work-Day-Scheduler\assests\10 am Planner.png
 
 ## Acceptance Criteria
 
