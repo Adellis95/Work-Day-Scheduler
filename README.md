@@ -2,19 +2,25 @@
 
 ## Description
 
-words
+Using HTML, CSS, and Javascript I created a day planner with an nine-hour work day and the save button saves the user's input into local storage. The application is able to calculate the current date and time by using moment.js to call the system time settings on your device. This application is great for people wanting a simple day planner to help coordinate a busy schedule!
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
+- [Description](#description)
+- [Screenrecord](#screenrecord)
 - [Acceptance_Criteria](#acceptance_criteria)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 
-## Screenshots
+## Screenrecord
 
-![Work_Day_Planner](assests/10-am-Planner.png)Homework\Work-Day-Scheduler\assets\images\10-am-Planner.png
+Demo of application:
+
+https://drive.google.com/file/d/1eAYTrrvQa1JoUVF1WC42i6MeNtKTEi4a/view
+
+Embed code:
+
+<iframe src="https://drive.google.com/file/d/1eAYTrrvQa1JoUVF1WC42i6MeNtKTEi4a/preview" width="640" height="480"></iframe>
 
 ## Acceptance Criteria
 
@@ -36,11 +42,11 @@ THEN the saved events persist
 
 ## Installation
 
-words
+The way to access this project is to go to my GitHub site and to clone my Work-Day-Scheduler repository from here : https://github.com/Adellis95
 
-## Usage
+Then you pull the cloned repository into your terminal/GitBash by using the "git pull git@github.com:Adellis95/Work-Day-Scheduler.git"
 
-words
+Afterwards, you change directories until you are in the Work-Day-Scheduler repository and open the file in your code editor by typing "code ."
 
 ## License
 
