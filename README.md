@@ -6,21 +6,15 @@ words
 
 ## Table of Contents
 
-- [Screenrecord](#screenrecord)
+- [Screenshots](#screenshots)
 - [Acceptance_Criteria](#acceptance_criteria)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
-## Screenrecord
+## Screenshots
 
-Demo of application:
-
-here
-
-Embed code:
-
-here
+![Work_Day_Planner](assests/10 am Planner.png)
 
 ## Acceptance Criteria
 
